@@ -3,6 +3,10 @@ body {
     background-color: black;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .stickynav {
     display: flex;
     position: fixed;
